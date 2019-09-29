@@ -1,0 +1,17 @@
+{
+  "name": "pusher-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^9.0.7",
+    "pusher": "^3.0.0",
+    "pusher-js": "^5.0.2",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "spectre.css": "^0.5.8"
+  }
+}
