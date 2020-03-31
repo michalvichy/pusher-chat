@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^9.0.7",
+    "next": "^9.3.2",
     "pusher": "^3.0.0",
     "pusher-js": "^5.0.2",
     "react": "^16.10.1",
